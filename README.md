@@ -1,2 +1,2 @@
 # Boston-house-prices-analysis
-Small exercise on parametric and non-parametric regressions;
+Small exercise on an analysis of different types of regression
